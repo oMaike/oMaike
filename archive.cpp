@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 
-void imprime(int id, int sobreviveu, int classe, int nome, int idade){
+void imprime(int id, string sobreviveu, int classe, string nome, int idade, char sexo){
 	cout << id << "\t" << classe << "\t" << nome << "\t" << sexo << "\t" << endl;
 }
 using namespace std;
@@ -18,7 +18,7 @@ int main(){
 			cout << total << endl;
 			arquivo.ignore();
 			getline(arquivo, linha);
-			cout << linha <<< endl;
+			cout << linha << endl;
 			for(int i = 1; i <= total; i++){
 				arquivo >> id;
 				arquivo >> lixo;
