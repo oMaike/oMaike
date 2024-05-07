@@ -1,0 +1,17 @@
+[19:15:45] 301 -    0B  - /index.php  ->  http://www.hsstc.com.br/
+[19:15:46] 301 -    0B  - /index.pHp  ->  http://www.hsstc.com.br/index.pHp/
+[19:15:46] 301 -    0B  - /index.php/login/  ->  http://www.hsstc.com.br/login
+/cgi-bin/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+/.%2e/%2e%2e/%2e%2e/%2e%2e/etc/passwd
+[19:25:24] 301 -  156B  - /wp-admin  ->  http://www.hsstc.com.br/wp-admin/
+/wp-content/uploads/dump.sql
+/wp-content/uploads/file-manager/log.txt
+[19:25:32] 302 -    0B  - /wp-admin/  ->  http://www.hsstc.com.br/wp-login.php?redirect_to=http%3A%2F%2Fwww.hsstc.com.br%2Fwp-admin%2F&reauth=1
+[19:25:33] 200 -  711B  - /wp-admin/install.php
+[19:25:35] 500 -    0B  - /wp-includes/rss-functions.php
+[19:25:35] 200 -    0B  - /wp-cron.php
+[19:25:36] 200 -    2KB - /wp-login.php
+[19:25:38] 302 -    0B  - /wp-signup.php  ->  http://www.hsstc.com.br/wp-login.php?action=register
+[19:25:38] 405 -   42B  - /xmlrpc.php
+[19:25:39] 200 -    0B  - /wp-config.php
+
